@@ -1,0 +1,7 @@
+openai
+click
+pandas
+openpyxl
+rich
+selenium
+pyyaml
